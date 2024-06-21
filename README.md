@@ -1,0 +1,2 @@
+# LAB_01_VARIABLE_AND_WORKFLOW_ADVANCED
+Terraform practice lab 
